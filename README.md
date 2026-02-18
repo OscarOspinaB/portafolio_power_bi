@@ -1,4 +1,7 @@
 # portafolio_power_bi
 
 # Enlace informe de ventas
-<iframe title="Proyecto Final BI por Oscar Eduardo Ospina Bedoya" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiODg0NTA1MWItODU3ZS00ZmRkLWE3OTktYTI3NjY2ZWMxMmVlIiwidCI6Ijk5ZTFlNzIxLTcxODQtNDk4ZS04YWZmLWIyYWQ0ZTUzYzFjMiIsImMiOjR9" frameborder="0" allowFullScreen="true"></iframe>
+
+En el siguiente enlace pueden acceder al informe del proyecto de BI
+
+https://app.powerbi.com/view?r=eyJrIjoiODg0NTA1MWItODU3ZS00ZmRkLWE3OTktYTI3NjY2ZWMxMmVlIiwidCI6Ijk5ZTFlNzIxLTcxODQtNDk4ZS04YWZmLWIyYWQ0ZTUzYzFjMiIsImMiOjR9
